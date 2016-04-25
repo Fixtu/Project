@@ -6,6 +6,6 @@ I know that those codes may be not too good, but honestly I started just a week 
 I hope that with every code (from project 1-1 to 1-3) it looks better and better (less like spaghetti code). 
 There are a couple of mistakes, and errors I wanted to rewrite 1-1 but I ran out of time.  
 
-Hope that you Reader, could get through this.
+Hope that you Reader, will be able get through this.
 
 Cheers!

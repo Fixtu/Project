@@ -1,0 +1,180 @@
+*{
+  font-family: "Rotice";
+}
+.fa-chevron-left {
+  position: absolute !important;
+  font-size: 30px !important;
+  vertical-align: center !important;
+  text-align: center !important;
+  margin-top: 38px !important;
+}
+.header{
+  margin-bottom: 25px;
+  margin-top: 10px;
+}
+.leftHeader{
+  word-spacing: 20px;
+  margin-top: 15px;
+}
+.rightHeader{
+  word-spacing: 4px;
+  margin-top: 25px;
+  text-align: right;
+  font-weight: bold;
+}
+.questionHeader {
+  font-weight: bold;
+  font-size: 23px;
+}
+
+.fa-plus-circle:before {
+  font-size: 25px;
+  color: #0266b3;
+}
+.mainContainer{
+  background-color:#FBFBFB;
+  border-left: 30px solid #FFE1AD;
+  border-right: 30px solid #FFE1AD;
+  position: relative;
+  height:1000px;
+}
+.backgroundBlue{
+  background-color: #DFF3FD;
+  height:80px;
+}
+
+.firstRow{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.lineHeights{
+  line-height: 200%;
+}
+.willFont{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.topMargin1{
+  margin-top: 10px;
+}
+.topMargin2{
+  margin-top: 30px;
+}
+.pictureCircle{
+  height:50px;
+  width:50px;
+  border-radius: 50%;
+  display: block;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 20px;
+}
+.eva{
+  background-size: contain;
+  background-image: url("http://m.jumpstart.com/JumpstartNew/brands/pom/img/characters/pom-kowalski-icon.jpg");
+}
+.skipper{
+  background-image: url("http://m.jumpstart.com/JumpstartNew/brands/pom/img/characters/pom-skipper-icon.jpg");
+  background-size: contain;
+}
+.private{
+  background-image: url("http://m.jumpstart.com/JumpstartNew/brands/pom/img/characters/pom-private-icon.jpg");
+  background-size: contain;
+}
+.rico{
+  background-image: url("http://m.jumpstart.com/JumpstartNew/brands/pom/img/characters/pom-rico-icon.jpg");
+  background-size: contain;
+}
+.colorBlue{
+  color:blue;
+}
+.colorGrey{
+  color:grey;
+}
+.backgroundWhite{
+  height:165px;
+  width:100%;
+  background-color: white;
+}
+.padding{
+  padding: 0 !important;
+}
+.upvotes{
+  text-align: right;
+}
+.evaMargin1{
+  margin-top: 20px;
+}
+.evaMargin2{
+  margin-top: 15px;
+}
+.longText{
+  text-align: left;
+  position: absolute;
+  top: 20px;
+}
+.answerRow{
+  height:165px;
+  background-color:#DFF3FD;
+  border-right: 5px solid white;
+}
+.newButton{
+  background-color: white;
+  border: solid 1px;
+  border-color: #E7E7E7 !important;
+  border-radius: 0 !important;
+  width:200px;
+}
+.textPosition{
+text-align:center;
+}
+.buttonPosition{
+  margin-top: -2.5%;
+}
+.patriciaContainer{
+  background-color: white;
+  border: 1px solid #E7E7E7;
+  height:100px;
+  padding: 0 !important;
+}
+.pictureBlock{
+  border: 1px solid #E7E7E7;
+  height: 100px;
+}
+.patriciaRow{
+  margin-top: 20px;
+  line-height: 100%;
+}
+.patriciaText{
+
+}
+.patriciaMargin1{
+vertical-align: middle;
+line-height: 100px;
+}
+.patriciaMargin2{
+margin-top: 30px;
+}
+.davidMargin1{
+  margin-top: 40px;
+  margin-left: 45px;
+}
+.davidMargin2{
+  margin-left: 0px;
+  margin-top: 30px;
+}
+.backgroundDavid{
+  background-color: white;
+  height: 100px;
+  border-right: 1px solid #E7E7E7;
+  border-bottom: 1px solid #E7E7E7;
+}
+.josephContainer{
+  background-color: white;
+  border: 1px solid #E7E7E7;
+  height:100px;
+  padding: 0 !important;
+  margin-top: 20px;
+}

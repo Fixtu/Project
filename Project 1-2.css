@@ -1,0 +1,325 @@
+body{
+  font-family: "Rotice";
+}
+.mainHeader .Header {
+  text-align: center;
+}
+.headerCross{
+  text-align:right;
+  margin-top: 20px;
+}
+.container {
+  position: relative;
+  height:1000px;
+}
+.mainHeader .headerFrame {
+  height: 100px;
+  width: 100px;
+  border-radius: 100%;
+  position: relative;
+  margin:0 auto;
+  margin-top: 30px;
+  margin-bottom: 40px;
+}
+
+.nameHeader {
+  position: absolute;
+  bottom: -35%;
+  left: 0%;
+  right: 0%;
+  font-weight: bold;
+  color: #0266B3;
+}
+.Short {
+  background-image: url("http://m.jumpstart.com/JumpstartNew/brands/pom/img/characters/pom-short-fuse-icon.jpg");
+  background-size: contain;
+}
+
+.aEva {
+  background-image: url("http://m.jumpstart.com/JumpstartNew/brands/pom/img/characters/pom-eva-icon.jpg");
+  background-size: contain;
+}
+.headerWrite {
+  border-bottom: 1px solid black;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.headerWrite .leftHeader {
+  text-align: left;
+  margin-bottom: 10px;
+}
+
+.hearWrite .rightHeader {
+  text-align: right;
+  margin-bottom: 10px;
+}
+.headerWrite div {
+  display: inline-block;
+}
+
+.headerWrite .redStar {
+  color: red;
+}
+
+.headerWrite .greyStar {
+  color: grey;
+}
+
+.howItAll {
+  text-align: center;
+  white-space: nowrap;
+}
+
+.howItAll .fa-chevron-left {
+  color: grey;
+  zoom: 1.5;
+}
+
+.howItAll .arrowLeft {
+  text-align: left;
+}
+
+.howItAll .fa-chevron-right {
+  color: blue;
+  text-align: right;
+  zoom: 1.5;
+}
+
+.howItAll .arrowRight {
+  text-align: right;
+}
+
+.howItAll .textHow {
+  font-weight: bold;
+  font-size: 32px;
+  text-align: center;
+  margin-bottom: 35px;
+
+}
+
+.rowSecond .secondHeaderText {
+  text-align: center;
+}
+.textThat{
+  margin-bottom: 20px
+}
+.rowSecond .secondHeader{
+  text-align: center;
+  display:inline-block;
+}
+.rowSecond{
+  font-size:16px;
+}
+.secondHeader {
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+.textInRot{
+  font-weight: bold;
+}
+
+.rowSecond .rotationsLeft {
+  height: 100px;
+  width: 100px;
+  position: relative;
+  margin-left: 10px;
+  margin-right: 10px;
+  background-color: #E5F5FD;
+  -webkit-transform: rotate(30deg);
+  -moz-transform: rotate(30deg);
+  -ms-transform: rotate(30deg);
+  -o-transform: rotate(30deg);
+  transform: rotate(30deg);
+}
+
+.rowSecond .rotationsLeft .rotateWithoutContentLeft {
+  position: absolute;
+  right:0;
+  left:20px;
+  top: 20px;
+  bottom:0;
+  -webkit-transform: rotate(-30deg);
+  -moz-transform: rotate(-30deg);
+  -ms-transform: rotate(-30deg);
+  -o-transform: rotate(-30deg);
+  transform: rotate(-30deg);
+}
+
+
+.rowSecond .rotationsRight1 {
+  height: 100px;
+  width: 100px;
+  position: relative;
+  margin-left: 15px;
+  margin-right:15px;
+  background-color: #E5F5FD;
+  -webkit-transform: rotate(165deg);
+  -moz-transform: rotate(165deg);
+  -ms-transform: rotate(165deg);
+  -o-transform: rotate(165deg);
+  transform: rotate(165deg);
+}
+.rotateWithoutContentRight1{
+  position: absolute;
+  right:0px;
+  left:0px;
+  top: 0px;
+  bottom:20px;
+  -webkit-transform: rotate(-165deg);
+  -moz-transform: rotate(-165deg);
+  -ms-transform: rotate(-165deg);
+  -o-transform: rotate(-165deg);
+  transform: rotate(-165deg);
+}
+
+.rowSecond .rotationsRight2 {
+  height: 100px;
+  width: 100px;
+  position: relative;
+  margin-left: 5px;
+  background-color: #E5F5FD;
+  -webkit-transform: rotate(105deg);
+  -moz-transform: rotate(105deg);
+  -ms-transform: rotate(105deg);
+  -o-transform: rotate(105deg);
+  transform: rotate(105deg);
+}
+.rotateWithoutContentRight2{
+  position: absolute;
+  right:0px;
+  left:20px;
+  top: 0px;
+  bottom:20px;
+  -webkit-transform: rotate(-105deg);
+  -moz-transform: rotate(-105deg);
+  -ms-transform: rotate(-105deg);
+  -o-transform: rotate(-105deg);
+  transform: rotate(-105deg);
+}
+
+.rowThird {
+  text-align: center;
+}
+.thirdColumn{
+  text-align: center;
+}
+.greyText{
+  margin-bottom:15px;
+  margin-top: 15px;
+  color:grey;
+  font-size:16px;
+}
+.topBox .circleAgent {
+  height: 50%;
+  width: 50%;
+  border-radius: 50%;
+  background-image: url("http://m.jumpstart.com/JumpstartNew/brands/pom/img/characters/pom-agent-classified-icon.jpg");
+  background-size: contain;
+  z-index:0;
+}
+.topBox .circleSkipper {
+  height: 50%;
+  width: 50%;
+  border-radius: 50%;
+  background-image: url("http://m.jumpstart.com/JumpstartNew/brands/pom/img/characters/pom-skipper-icon.jpg");
+  background-size: contain;
+  z-index:0;
+
+}
+.topBox .circleRico {
+  height: 50%;
+  width: 50%;
+  border-radius: 50%;
+  background-image: url("http://m.jumpstart.com/JumpstartNew/brands/pom/img/characters/pom-rico-icon.jpg");
+  background-size: contain;
+  z-index:0;
+}
+
+.circleEva {
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+  background-image: url("http://m.jumpstart.com/JumpstartNew/brands/pom/img/characters/pom-eva-icon.jpg");
+  background-size: contain;
+  margin:0 auto;
+}
+
+.margins{
+  margin-top:15px;
+}
+.bottomBox .col-sm-2{
+  text-align: center;
+}
+.rowfooter {
+  text-align: center;
+  margin-top: 15px;
+  z-index: 1;
+}
+.lastParagraph{
+  margin-top:10px;
+  color:blue;
+  font-size:24px;
+  font-size:bold;
+}
+.noWrap{
+  white-space: nowrap;
+}
+.border {
+  height: 180px;
+  width: 100%;
+}
+
+.textGrey {
+  color: grey;
+  font-weight: normal;
+}
+.footerBorder{
+  height:170px;
+  width:100%;
+  position:absolute;
+  bottom:-10%;
+  left:0%;
+  right:0%;
+  z-index:-1;
+  background-color:#F2F2F2;
+}
+#black {
+  color: black;
+}
+#bold{
+  font-size: 18px;
+}
+#numbers{
+  font-size: 25px;
+}
+.boxesWrapper {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.greyBox {
+  width: 100px;
+  height: 100px;
+  background-color:#F2F2F2;
+  display: flex;
+  justify-content: center;
+  align-items:center;
+  margin-left: 20px;
+}
+
+.boxWrapper {
+  float: left;
+}
+.bottomText{
+  color:blue;
+  font-weight:bold;
+  margin-top:5px;
+}
+.textUnder{
+  margin-left:20px;
+  color:blue;
+  font-weight:bold;
+  margin-top:5px;
+}
